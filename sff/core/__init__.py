@@ -1,0 +1,1 @@
+# SteamShip core package
